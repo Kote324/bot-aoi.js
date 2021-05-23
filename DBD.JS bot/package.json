@@ -1,0 +1,19 @@
+{
+  "name": "aoi.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "котэ#0777",
+  "license": "ISC",
+  "dependencies": {
+  "sqlite3": "^5.0.1",
+    "dbd.js": "^1.4.0",
+    "express": "^4.17.1"
+  }
+}
