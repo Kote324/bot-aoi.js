@@ -7,8 +7,10 @@ also let's move on to the cons
 
 in the bot there are no commands like the info server help command admin help commands and all the main commands!
 
+# russia-comyniti
+
 перевод на русский)
-# bot-aoi.js
+
 привет мой бот на aoi.js
 в этой бите много команд сейчас перечислю -
 система модерации система премиум система билетов система выравнивания и музыкальная система
